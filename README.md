@@ -28,7 +28,7 @@ Merhaba! Ben Yusuf Çimen. Ankara'da yaşayan ve yazılım geliştirme alanında
 ## 📫 Bana Ulaşın
 
 - 📧 E-posta: yusufcimen90@gmail.com 
-- 💼 LinkedIn: [[https://www.linkedin.com/in/yusuf-%C3%A7imen-4b911615a]) 
+- 💼 LinkedIn: https://www.linkedin.com/in/yusuf-%C3%A7imen-4b911615a
 
 ---
 
