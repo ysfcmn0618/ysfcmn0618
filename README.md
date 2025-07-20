@@ -20,6 +20,12 @@ Merhaba! Ben Yusuf Çimen. Ankara'da yaşayan ve yazılım geliştirme alanında
 
 - **Kısa Vadeli:** Yazılım sektörüne profesyonel olarak giriş yapmak  
 - **Uzun Vadeli:** İnsanların hayatını kolaylaştıran projelerde yazılım geliştiricisi olarak yer almak
+  
+## 📊 GitHub İstatistiklerim
+
+![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ysfcmn0618&show_icons=true&theme=github_dark&locale=tr)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysfcmn0618&layout=compact&theme=github_dark)
 
 ## 📍 Lokasyon
 
@@ -33,4 +39,8 @@ Merhaba! Ben Yusuf Çimen. Ankara'da yaşayan ve yazılım geliştirme alanında
 ---
 
 🧠 “Sürekli öğrenme, gelişimin temelidir.”
+
+---
+
+
 
