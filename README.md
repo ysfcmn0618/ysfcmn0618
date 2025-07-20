@@ -23,9 +23,12 @@ Merhaba! Ben Yusuf Çimen. Ankara'da yaşayan ve yazılım geliştirme alanında
   
 ## 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ysfcmn0618&show_icons=true&theme=github_dark&locale=tr)
+![Yusuf Çimen'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=ysfcmn0618&show_icons=true&theme=github_dark&locale=tr)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysfcmn0618&layout=compact&theme=github_dark)
+![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=ysfcmn0618&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ysfcmn0618&theme=github-dark)
+
 
 ## 📍 Lokasyon
 
